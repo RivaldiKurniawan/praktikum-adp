@@ -1,0 +1,16 @@
+Dicky Rivaldi Kurniawan,2410432031,A,Acara:Ketua; Pubdok:anggota; Humas:Anggota,85,Acara
+Raditya Irawan,3410432003,A,Acara:Anggota; Perlengkapan:Anggota,80,Perlengkapan
+Zhafran Ariella,2410433009,A,Perlengkapan:Ketua; Acara:Anggota,75,Perlengkapan
+Shalsya Adina Marsya,2410432009,A,Humas:Anggota;Acara:Anggota,85,Pubdok
+Rivaldo Nofrizal,2410432043,A,Humas:Ketua;Acara:Anggota,90,Perlengkapan
+Lala Abdillah Batubara,2410431031,A,Humas:Anggota;Perlengkapan:Anggota,85,Danus
+M. Akbar Putra P. Asaki,2410432023,A,Humas:Anggota,82,Pubdok
+Mufli Diash Putra,2410432001,A,Humas:Anggota,78,Danus
+Danda Ahmad Dzaky,2410432030,C,Danus:Ketua,90,Perlengkapan
+Gibran Ramadhan,2410431032,B,Danus:Anggota;Pubdok:Anggota,78,Danus
+Yazid Riyanda Putra,2410431005,C,Acara:Ketua,90,Acara
+Dinda Rahma Mulyana,2410431034,B,Acara:Anggota;Danus:Anggota,75,Pubdok
+Melda Afrilia,2410432042,A,Perlengkapan:Ketua,85,Danus
+Wahyu Andani,2410432004,B,Perlengkapan:Anggota;Danus:Anggota,79,Pubdok
+Lexania Nazila,2410431019,A,Pubdok:Ketua;Acara:Anggota,80,Acara
+Mutiara Aviva,2410432045,KBI,Pubdok:Anggota,80,Acara
